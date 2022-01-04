@@ -1,2 +1,2 @@
-# DSA-project
-Project DSA in c++
+# DSA-bootcamp
+
